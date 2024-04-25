@@ -1,0 +1,28 @@
+Zawartoœæ p³yty CD-R:
+
+\Advantech Adsapi\ - pliki dostarczone przez producenta przetwornika A/C (firmê Advantech), wykorzystane w pracy
+
+\dane\ - pliki pomiarów EKG i testowe sygna³y (z wyj¹tkiem jednego katalogu, o czêstotliwoœci próbkowania 500 Hz)
+\dane\200Hz\ - sygna³y pochodz¹ce z Internetu o czêstotliwoœci próbkowania 200 Hz
+\dane\Internet\ - sygna³y pochodz¹ce z Internetu
+\dane\krokiQRS\ - sygna³y wyjœciowe kolejnych kroków algorytmu wykrywania zespo³u QRS
+\dane\Sin\ - testowe sygna³y sinusoidalne
+\dane\zarejestrowane\ - pomiary zarejestrowane podczas testowania pracy
+
+\instalacja\ - wersja instalacyjna programu Kardiomonitora
+\instalacja\pliki\ - pliki, które zostan¹ skopiowane do katalogu C:\ekg podczas instalacji
+\instalacja\instaluj.bat - plik wsadowy s³u¿¹cy instalacji programu Kardiomonitora
+
+\Literatura\ - Literatura do pracy, która dostêpna by³a w wersji elektronicznej
+
+\program\ - kod Ÿród³owy (w jêzyku Ada 95) i wynikowy programu Kardiomonitora
+
+\testQRS\ - kod Ÿród³owy (w jêzyku Ada 95) i wynikowy programu s³u¿¹cego testowaniu algorytmu wykrywania zespo³u QRS
+
+\Zasoby\ - pliki Ÿród³owe zasobów dla programu Kardiomonitora (menu, okno dialogowe i in.)
+\Zasoby\Release\ - zasoby dla programu Kardiomonitora w postaci skompilowanej
+
+\Praca dyplomowa.lwp - treœæ dokumentacji pracy dyplomowej w formacie Lotus WordPro 97
+\Praca dyplomowa (kopia).* - kopie powy¿szego pliku w innych formatach
+
+\*.exe - pliki instalacyjne kompilatora i œrodowiska programistycznego jêzyka Ada 95
